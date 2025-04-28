@@ -14,7 +14,7 @@ int main()
 
     // Verify payment based on age using conditionals - Verificar el pago dependiendo de la edad mediante condicionales
 
-    // Si la edad es mayor a 5 , la entrada es gratis
+    // Si la edad es menor a 5 , la entrada es gratis
     if (old < 5)
     {
         cout << "Children can enter for free";
