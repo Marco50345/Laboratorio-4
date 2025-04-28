@@ -17,7 +17,7 @@ int main()
     // Si la edad es menor a 5 , la entrada es gratis
     if (old < 5)
     {
-        cout << "Children can enter for free";
+        cout << "Admission is for children free";
     }
     //Si la edad es igual o mayor a 5 y menor a 12 años la entrada es de $5
     else if (old >= 5 && old <= 12)
